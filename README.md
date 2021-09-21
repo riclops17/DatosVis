@@ -10,6 +10,6 @@ Para llevar a cabo el trabajo de Visualización fue utilizada la siguiente infor
 - Pais 
 - Dispositivo
 - Periodo
-##Visualización
+## Visualización
 
 https://riclops17.github.io/DatosVis/index.html
